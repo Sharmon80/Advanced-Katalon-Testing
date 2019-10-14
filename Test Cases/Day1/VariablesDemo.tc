@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VariablesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad325732-98c4-490f-b443-90b07152da00</testCaseGuid>
+   <variable>
+      <defaultValue>'Shari'</defaultValue>
+      <description></description>
+      <id>1011c513-fc16-4939-b5c4-7b7a9739a2d7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'PassWord'</defaultValue>
+      <description></description>
+      <id>4ae61413-2eed-40d3-8f10-0281adc446aa</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
